@@ -1,0 +1,2 @@
+uart.c:12:6:uart_UART3_GPIO_config	56	static
+uart.c:43:6:uart_UART3_config	16	static

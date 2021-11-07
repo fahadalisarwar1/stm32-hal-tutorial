@@ -1,0 +1,7 @@
+gpio.c:13:6:gpio_LED_Green_init	32	static
+gpio.c:24:6:gpio_LED_Blue_init	32	static
+gpio.c:35:6:gpio_LED_Red_init	32	static
+gpio.c:48:6:gpio_LED_init_all	8	static
+gpio.c:56:6:gpio_LED_Green_Toggle	8	static
+gpio.c:61:6:gpio_LED_Blue_Toggle	8	static
+gpio.c:66:6:gpio_LED_Red_Toggle	8	static
